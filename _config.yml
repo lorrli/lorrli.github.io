@@ -1,3 +1,18 @@
 theme: jekyll-theme-midnight
 title: Welcome to my new trial page!
 description: This is just for practice setting things up.
+<h1> Hello </h1>
+*make this italic please*
+_idk what im doing_
+![BTS](C:\Users\eddie\Desktop)
+<script type="text/javascript">
+        jQuery('#tweetit').click(function() {
+        pickupLine = jQuery('#lines').text();
+        jQuery('#tweetit').attr('href', 'http://twitter.com/intent/tweet?text=' + pickupLine + '&hashtags=designpickuplines&via = dsgnpickuplines')
+ });
+ </script>
+ <script type = 'text/javascript">
+          function getQuote() {
+          
+          var quotes= new Array ("You look perfectly put together. Do you display this well in IE?",
+                                 "I dig your look and feel."
