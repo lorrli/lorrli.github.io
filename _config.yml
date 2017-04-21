@@ -4,7 +4,6 @@ description: This is just for practice setting things up.
 <h1> Hello </h1>
 *make this italic please*
 _idk what im doing_
-![BTS](C:\Users\eddie\Desktop)
 <script type="text/javascript">
         jQuery('#tweetit').click(function() {
         pickupLine = jQuery('#lines').text();
